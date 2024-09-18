@@ -1,0 +1,26 @@
+body{
+    background: rgb(255, 251, 251);
+}
+h1{color: rgb(55, 95, 117);}
+h2{color: rgb(55, 95, 117);}
+h3{color: rgb(55, 95, 117);}
+
+a{
+    text-decoration: none;
+    color: rgb(77, 77, 183);
+}
+a :hover {color: rgb(25, 161, 41);}
+
+nav{
+    background: #eee;
+    border: 1px solid #bbb;
+    /* border - обводка */
+}
+.pic_one {
+    width:30%;
+    margin: 2%;
+    /* margin - внешний отступ */
+    border-radius: 10%; 
+    /* border-radius - радиусы */
+
+}
