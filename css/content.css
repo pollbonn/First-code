@@ -1,7 +1,33 @@
 body{
-    background: rgb(255, 251, 251);
-    width: 700px;
-    margin-left: 300px;
+    background: rgb(255, 251, 251);}
+
+.mytext{ 
+    color: cadetblue;
+    margin-top: 8px;
+    /* color: rgba (0, 0, 0.4); */
+    font-size: 22px;
+    line-height: 32px;
+}
+a{
+    text-decoration: none;
+    color: rgb(77, 77, 183);
+}
+a :hover {color: rgb(25, 161, 41);}
+
+.pic_one {
+    width: 25%;
+    margin: 2%;
+    /* margin - внешний отступ */
+    border-radius: 10px; 
+    /* border-radius - радиусы */
+
+}
+article{
+    width: 700px; 
+    /* width – ширина контейнера */
+    /* background: lavander */
+    margin: 150px auto; 
+    /* margin – внешний отступ */
 }
 
 h1{color: rgb(55, 95, 117);
@@ -10,41 +36,26 @@ margin-top: 66px;
 line-height: 45px;
 background: #e6fff8;}
 
-h3{color: rgb(55, 95, 117);}
-
-h1+hr+p {
+h1 + hr + p + p + p {
     margin-top: 8px;
     color: #bbb;
     font-size: 22px;
     line-height: 32px;
 }
 
+
 h2{ margin-top: 50px;
     font-size: 32px;
     line-height: 36px;
     color: rgb(55, 95, 117);}
-h2+blockquote, h2+p {
+
+h2 + blockquote, h2 + p {
    margin-top: 8px; 
 }
 blockquote{
     font-style: italic;
     margin-left: 100px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 20px; }
 
-}
-a{
-    text-decoration: none;
-    color: rgb(77, 77, 183);
-}
-a :hover {color: rgb(25, 161, 41);}
-
-
-.pic_one {
-    width:30%;
-    margin: 2%;
-    /* margin - внешний отступ */
-    border-radius: 10%; 
-    /* border-radius - радиусы */
-
-}
+    h3{color: rgb(55, 95, 117);}
