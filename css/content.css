@@ -54,10 +54,10 @@ h2 + blockquote, h2 + p {
 
 h3 {margin-top: 30px;
     font-size: 28px;
-    line-height: 36px;
+    line-height: 10px;
     color: rgb(55, 95, 117); }
 
- h2 + h3 + p + p + p + p {
+ h2 + h3 + p + p + p + p + p {
     margin-top: 8px;
     color: #bbb;
     font-size: 22px;
