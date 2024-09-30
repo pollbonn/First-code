@@ -15,7 +15,7 @@ a{
 a :hover {color: rgb(25, 161, 41);}
 
 .pic_one {
-    width: 25%;
+    width: 50%;
     margin: 2%;
     /* margin - внешний отступ */
     border-radius: 10px; 
