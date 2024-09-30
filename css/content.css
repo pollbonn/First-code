@@ -15,7 +15,7 @@ a{
 a :hover {color: rgb(25, 161, 41);}
 
 .pic_one {
-    width: 50%;
+    width: 100%;
     margin: 2%;
     /* margin - внешний отступ */
     border-radius: 10px; 
@@ -51,6 +51,11 @@ h2{ margin-top: 50px;
 
 h2 + blockquote, h2 + p {
    margin-top: 8px; 
+
+   h3{margin-top: 30%;
+font-size: 28px;
+line-height: 36px;
+color: rgb(55, 95, 117); }
 }
 blockquote{
     font-style: italic;
