@@ -49,11 +49,11 @@ h2{ margin-top: 50px;
     line-height: 36px;
     color: rgb(55, 95, 117);}
 
-    
+
 
 h3 {margin-top: 30px;
     font-size: 28px;
-    line-height: 10px;
+    line-height: 20px;
     color: rgb(55, 95, 117); }
 
  h2 + h3 + p + p + p + p + p {
