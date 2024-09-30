@@ -57,7 +57,12 @@ h3 {margin-top: 50px;
     line-height: 36px;
     color: rgb(55, 95, 117); }
 
- h2 + h3 + p + p + p + p
+ h2 + h3 + p + p + p + p {
+    margin-top: 8px;
+    color: #bbb;
+    font-size: 22px;
+    line-height: 32px;
+ }
 blockquote{
     font-style: italic;
     margin-left: 100px;
