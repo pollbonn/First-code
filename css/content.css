@@ -29,10 +29,10 @@ p{
 
 }
 article{
-    width: 1200px; 
+    width: 1000px; 
     /* width – ширина контейнера */
     /* background: lavander */
-    margin: 20px 10px 50px 500px; 
+    margin: 150px 10px 50px 500px; 
     /* margin – внешний отступ */
 }
 
@@ -67,12 +67,7 @@ h3 {margin-top: 10px;
     line-height: 30px;
     color: rgb(55, 95, 117); }
 
- h2 + h3 + p + p + p + p + p {
-    margin-top: 16px;
-    color: #bbb;
-    font-size: 22px;
-    line-height: 32px;
- }
+
 
 blockquote{
     font-style: italic;
