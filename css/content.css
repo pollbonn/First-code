@@ -58,7 +58,7 @@ h2{ margin-top: 30px;
 
 h2 + blockquote, h2 + p{
     margin-top: 8px;
-    margin-bottom: 20px;
+    margin-bottom: 28px;
 }
 
 h3 {margin-top: 10px;
@@ -66,13 +66,8 @@ h3 {margin-top: 10px;
     font-size: 26px;
     line-height: 30px;
     color: rgb(55, 95, 117); }
-
-p + blockquote + p {
-    margin-top: 8px;
-    margin-bottom: 15px;
-}
-
-blockquote{
+    
+    blockquote{
     font-style: italic;
     margin-left: 20px;
     margin-top: 20px;
