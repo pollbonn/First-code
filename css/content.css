@@ -67,7 +67,7 @@ h3 {margin-top: 10px;
     line-height: 30px;
     color: rgb(55, 95, 117); }
 
-h2 + p + p + p + p + blockquote + p + p + p + p + p + blockquote + p + p + p + p + p {
+p + blockquote + p {
     margin-top: 8px;
     margin-bottom: 15px;
 }
