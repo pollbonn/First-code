@@ -11,6 +11,10 @@ nav {
     box-sizing: border-box;
     opacity: .1;
     transform: all 1s ease;
+    height: 90vh;
+    /* добавили высоту */
+    overflow-y: scroll;
+    /* добавляем функцию scroll по вертикали */
 
 
 }
