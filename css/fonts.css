@@ -1,3 +1,7 @@
 @font-face {
-    font-family: "/Users/polinanamakanova/Downloads/Roboto";
+    font-family: "roboto-italic";
+    src: url("../Roboto/Roboto-Italic.ttf ");
+    font-weight: normal;
+    font-style: italic;
+
 }
