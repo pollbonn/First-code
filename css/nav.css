@@ -5,7 +5,7 @@ nav {
     /* ширина навигационного меню (списка) */
     position: fixed;
     /* позиция привязана к точке на экране */
-    top: 25px;
+    top: 50px;
     left: 10px;
     padding: 10px;
     box-sizing: border-box;
